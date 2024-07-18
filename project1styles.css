@@ -1,1 +1,11 @@
 /* This is the styles page for the project1collab html file */
+.imageHero {
+  display: block;
+  float: right;
+  width: 50%;
+  height: 730px;
+  margin: 0%;
+}
+.image {
+  padding: 10%;
+}
