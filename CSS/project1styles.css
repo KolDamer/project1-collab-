@@ -73,3 +73,20 @@ li {
 .logos{
         margin-left: 40px;
 }
+
+
+#master {
+  display: flex;
+  justify-content: space-between;
+ 
+
+}
+
+.image{
+        margin-top: 40px;
+        margin-left: 85px;
+}
+
+#gubliimgdiv{
+        width: 900px;
+}
